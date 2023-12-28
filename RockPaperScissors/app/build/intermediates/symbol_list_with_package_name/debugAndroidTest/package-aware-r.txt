@@ -1,0 +1,3 @@
+com.example.rockpaperscissors.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
